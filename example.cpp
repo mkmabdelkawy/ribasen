@@ -13,7 +13,7 @@ int main()
     //start_range is range of N to start from then automatically incremental (N+1,N+2,..)
   
   string stopped_at="ss";        //last string at where you were intrupted
-                                 //if not intrupted use the overloaded function of ribasen by
+                                 //if not intrupted use the overloaded function of basen by
                                  //the mode to (began) and passing the ("") value in stopped_at
   
   start_range=stopped_at.size(); //setting range from where you stopped
