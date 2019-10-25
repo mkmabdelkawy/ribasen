@@ -14,7 +14,7 @@ int main()
   
   string stopped_at="ss";        //last string at where you were intrupted
                                  //if not intrupted use the overloaded function of basen by
-                                 //the mode to (began) and passing the ("") value in stopped_at
+                                 //using mode to (began) and passing the ("") value in stopped_at
   
   start_range=stopped_at.size(); //setting range from where you stopped
   mode=began;                    //mode is mode if you generate from normal begining (began) 
