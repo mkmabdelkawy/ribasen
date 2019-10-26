@@ -17,7 +17,7 @@ int main()
                                  //using mode to (began) and passing the ("") value in stopped_at
   
   start_range=stopped_at.size(); //setting range from where you stopped
-  mode=began;                    //mode is mode if you generate from normal begining (began) 
+  mode=began;                    //mode value if you generate from normal begining (began) 
                                  //or continue from intrupted one (continued)
   ribasen(stopped_at, baseN_arr, baseN_arr_len, len, start_range, max_baseN_width, mode);
   return 0;
