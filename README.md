@@ -21,6 +21,6 @@ An implementation of functional programming
 
 `start_range=stopped_at.size();`
 
-**max_baseN_width** is the runcated width of (len) itself
+**max_baseN_width** is the truncated width of (len) itself
 
 **mode** to be either began or continued
